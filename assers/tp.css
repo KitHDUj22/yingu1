@@ -1527,10 +1527,10 @@ li .bold {
   text-align: center;
   margin-top: 20px;
 }
-
+.lwtop{ background: url(image/1723723823125.jpg) no-repeat;  background-size: cover; }
 .lwtop {
-  background: #000;
-  background-size: 100% auto;
+  /* background: #000; */
+  /* background-size: 100% auto; */
   height: 742px;
   position: relative;
 }
